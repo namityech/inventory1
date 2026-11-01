@@ -142,3 +142,4 @@ This project is licensed under the MIT License, unless otherwise specified.
 ---
 
 **BENEN INVENTORY — Smarter Stock. Better Business. Zero Waste.**
+https://benen-inventory-app.ai.studio/
