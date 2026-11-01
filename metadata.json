@@ -1,0 +1,6 @@
+{
+  "name": "Smart Inventory and Expiry Manager",
+  "description": "Intelligent inventory and batch expiry management platform with FEFO issuing, real-time expiry risk tracking, automated restocking, supplier management, and financial valuation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
